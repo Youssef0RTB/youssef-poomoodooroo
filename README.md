@@ -31,8 +31,8 @@
 <body>
     <h1>Pomodoro Timer</h1>
     <div id="timer">25:00</div>
-    <button id="startButton">سمايكا بين ليا </button>
-    <button id="resetButton">سيمو عاود عاود هاد لقطة لله يحفضك  </button>
+    <button id="startButton">بدأ</button>
+    <button id="resetButton">إعادة</button>
     <div id="ad-container">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                   <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-1234567890" data-ad-slot="1234567890" data-ad-format="auto"></ins>
